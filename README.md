@@ -17,3 +17,7 @@ https://www.zhihu.com/question/20136144/answer/239971177
 详见CSDN：<https://blog.csdn.net/StarLib/article/details/106904606>
 
 ## Day2：LSTM+CRFs
+
+CRFs模型推到代码实现：
+
+<https://blog.csdn.net/StarLib/article/details/106933974>
