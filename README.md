@@ -21,3 +21,10 @@ https://www.zhihu.com/question/20136144/answer/239971177
 CRFs模型推到代码实现：
 
 <https://blog.csdn.net/StarLib/article/details/106933974>
+
+## Day3: 用LSTM+CRFs 实战处理 conll 2003 数据集
+
+代码讲解如下：
+
+<https://blog.csdn.net/StarLib/article/details/107437859>
+
